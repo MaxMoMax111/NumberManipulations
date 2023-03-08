@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberManipulations.ConsoleUI", "NumberManipulations.ConsoleUI\NumberManipulations.ConsoleUI.csproj", "{431463BE-A42F-4055-8589-03BA9329BEDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberManipulations.Domain", "NumberManipulations.Domain\NumberManipulations.Domain.csproj", "{ADDB26CB-BC3C-40E2-A9E9-8C74D55F2D3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{431463BE-A42F-4055-8589-03BA9329BEDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{431463BE-A42F-4055-8589-03BA9329BEDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{431463BE-A42F-4055-8589-03BA9329BEDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{431463BE-A42F-4055-8589-03BA9329BEDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADDB26CB-BC3C-40E2-A9E9-8C74D55F2D3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADDB26CB-BC3C-40E2-A9E9-8C74D55F2D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADDB26CB-BC3C-40E2-A9E9-8C74D55F2D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADDB26CB-BC3C-40E2-A9E9-8C74D55F2D3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A844A7FD-A387-4470-B1FF-D2CC1402EB01}
+	EndGlobalSection
+EndGlobal
